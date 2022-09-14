@@ -1,0 +1,92 @@
+nohup: 忽略输入
+Env:sumo, Algorithm:TD3, Device:cuda
+------------------------------------------
+models/reward_s0.17_a1e-2_t(-2_0.1).pth
+------------------------------------------
+网络参数导入成功!
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+Simulation time:18.5
+Episode:1/10, Reward:-7437.2895743653335
+Episode:1/10, avg speed:15.28882013557589
+Episode:1/10, avg halt num:0.05021193348549071
+Episode:1/10, total elec cons:21256.981805035502
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+Simulation time:18.5
+Episode:2/10, Reward:-7347.936305654934
+Episode:2/10, avg speed:15.154157649332767
+Episode:2/10, avg halt num:0.04882128066263141
+Episode:2/10, total elec cons:20844.91815824695
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+Simulation time:18.1
+Episode:3/10, Reward:-7606.10924672617
+Episode:3/10, avg speed:14.345190005002104
+Episode:3/10, avg halt num:0.0780708509819022
+Episode:3/10, total elec cons:20516.861100115195
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+Simulation time:18.3
+Episode:4/10, Reward:-7168.211994552015
+Episode:4/10, avg speed:14.769822138174922
+Episode:4/10, avg halt num:0.042460857726344454
+Episode:4/10, total elec cons:21255.85536108257
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+Simulation time:17.4
+Episode:5/10, Reward:-6445.802097380503
+Episode:5/10, avg speed:14.615442661332494
+Episode:5/10, avg halt num:0.0470679012345679
+Episode:5/10, total elec cons:21343.223055356877
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+Simulation time:18.0
+Episode:6/10, Reward:-7801.195841904745
+Episode:6/10, avg speed:14.568220012584105
+Episode:6/10, avg halt num:0.0555
+Episode:6/10, total elec cons:20857.438745865802
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+Simulation time:18.5
+Episode:7/10, Reward:-7254.759317999046
+Episode:7/10, avg speed:14.779796430396983
+Episode:7/10, avg halt num:0.04091850828729282
+Episode:7/10, total elec cons:20757.938701378822
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+Simulation time:18.8
+Episode:8/10, Reward:-8028.219394268492
+Episode:8/10, avg speed:14.931425741449177
+Episode:8/10, avg halt num:0.0644280205655527
+Episode:8/10, total elec cons:21267.48789083958
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+Simulation time:18.5
+Episode:9/10, Reward:-7668.427108959023
+Episode:9/10, avg speed:14.620281024461498
+Episode:9/10, avg halt num:0.061724915445321306
+Episode:9/10, total elec cons:21115.390948781194
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+Simulation time:17.2
+Episode:10/10, Reward:-6654.941931362499
+Episode:10/10, avg speed:14.487766664421818
+Episode:10/10, avg halt num:0.05986628849270664
+Episode:10/10, total elec cons:21233.26690521539
+Complete eval! 
+final reward list:[-7437.2895743653335, -7347.936305654934, -7606.10924672617, -7168.211994552015, -6445.802097380503, -7801.195841904745, -7254.759317999046, -8028.219394268492, -7668.427108959023, -6654.941931362499]
+final speed list:[15.28882013557589, 15.154157649332767, 14.345190005002104, 14.769822138174922, 14.615442661332494, 14.568220012584105, 14.779796430396983, 14.931425741449177, 14.620281024461498, 14.487766664421818]
+final halt list:[0.05021193348549071, 0.04882128066263141, 0.0780708509819022, 0.042460857726344454, 0.0470679012345679, 0.0555, 0.04091850828729282, 0.0644280205655527, 0.061724915445321306, 0.05986628849270664]
+final episode elec cons list:[21256.981805035502, 20844.91815824695, 20516.861100115195, 21255.85536108257, 21343.223055356877, 20857.438745865802, 20757.938701378822, 21267.48789083958, 21115.390948781194, 21233.26690521539]
+final travel time list:[10236, 10247, 10427, 10192, 9871, 10506, 10381, 10347, 10297, 9896]

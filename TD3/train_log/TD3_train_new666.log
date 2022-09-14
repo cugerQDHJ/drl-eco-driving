@@ -1,0 +1,815 @@
+nohup: 忽略输入
+Env:sumo, Algorithm:TD3, Device:cuda
+-----------------------------------------
+models/reward_s5e-2(-5, 1)_a4e-2_t(-2_0.1)_safe(3, -0.7)_2027.pth
+-----------------------------------------
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-98722.1664433688, 速度奖励:-19838.950000000004, 加速度奖励:-1666.6164433780698, 交通灯奖励:-66212.60000004235, 与前车进行交互的惩罚:-11004.00000000142
+Episode:1/100, Reward:-98722.1664433688
+Episode:1/100, avg speed:7.884959376607249
+Episode:1/100, avg halt num:1.4059744603222863
+Episode:1/100, avg elec cons:0.2866498428841138
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-89934.23315759533, 速度奖励:-18066.5, 加速度奖励:-1705.8331576051928, 交通灯奖励:-59958.700000039426, 与前车进行交互的惩罚:-10203.200000000588
+Episode:2/100, Reward:-89934.23315759533
+Episode:2/100, avg speed:7.311117285738857
+Episode:2/100, avg halt num:1.1827287066246057
+Episode:2/100, avg elec cons:0.27276812007691575
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-41700.80215893815, 速度奖励:-7903.499999999956, 加速度奖励:-5429.602158935981, 交通灯奖励:-25623.000000006556, 与前车进行交互的惩罚:-2744.699999999913
+Episode:3/100, Reward:-41700.80215893815
+Episode:3/100, avg speed:9.019070337259842
+Episode:3/100, avg halt num:0.25097465886939574
+Episode:3/100, avg elec cons:1.3453115634248085
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-12966.566930013514, 速度奖励:-3068.79999999996, 加速度奖励:-832.9669300140149, 交通灯奖励:-8209.39999999843, 与前车进行交互的惩罚:-855.4000000000165
+Episode:4/100, Reward:-12966.566930013514
+Episode:4/100, avg speed:13.209099549078601
+Episode:4/100, avg halt num:0.18401486988847585
+Episode:4/100, avg elec cons:2.1559000852769272
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-9821.13506505185, 速度奖励:-2662.9999999999654, 加速度奖励:-845.035065052265, 交通灯奖励:-5982.699999999561, 与前车进行交互的惩罚:-330.3999999999971
+Episode:5/100, Reward:-9821.13506505185
+Episode:5/100, avg speed:13.493231096624037
+Episode:5/100, avg halt num:0.16380670611439843
+Episode:5/100, avg elec cons:2.4606488474622594
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-10138.657380522605, 速度奖励:-2726.649999999955, 加速度奖励:-966.5073805230603, 交通灯奖励:-6098.29999999952, 与前车进行交互的惩罚:-347.1999999999968
+Episode:6/100, Reward:-10138.657380522605
+Episode:6/100, avg speed:13.760037560278688
+Episode:6/100, avg halt num:0.19464912280701754
+Episode:6/100, avg elec cons:1.9796544890194963
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-9115.1424329623, 速度奖励:-2555.299999999985, 加速度奖励:-983.8424329626987, 交通灯奖励:-5203.599999999935, 与前车进行交互的惩罚:-372.3999999999964
+Episode:7/100, Reward:-9115.1424329623
+Episode:7/100, avg speed:14.47690176401276
+Episode:7/100, avg halt num:0.17519685039370078
+Episode:7/100, avg elec cons:1.9056073229880393
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-8258.555624717226, 速度奖励:-2598.749999999992, 加速度奖励:-1093.505624717468, 交通灯奖励:-4140.000000000653, 与前车进行交互的惩罚:-426.2999999999955
+Episode:8/100, Reward:-8258.555624717226
+Episode:8/100, avg speed:14.005144798906297
+Episode:8/100, avg halt num:0.11496746203904555
+Episode:8/100, avg elec cons:2.032075139384012
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-7180.739681752856, 速度奖励:-2597.0999999999885, 加速度奖励:-1087.9396817531406, 交通灯奖励:-2982.600000000447, 与前车进行交互的惩罚:-513.0999999999942
+Episode:9/100, Reward:-7180.739681752856
+Episode:9/100, avg speed:14.05220250469284
+Episode:9/100, avg halt num:0.10700389105058365
+Episode:9/100, avg elec cons:2.3561602424747785
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-6908.0159120763365, 速度奖励:-2638.7499999999895, 加速度奖励:-1067.7659120765204, 交通灯奖励:-2611.400000000618, 与前车进行交互的惩罚:-590.0999999999992
+Episode:10/100, Reward:-6908.0159120763365
+Episode:10/100, avg speed:13.89019774149982
+Episode:10/100, avg halt num:0.11081033880544883
+Episode:10/100, avg elec cons:2.487630914321918
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-6425.418771375744, 速度奖励:-2584.0999999999894, 加速度奖励:-1071.218771375844, 交通灯奖励:-2204.5000000004447, 与前车进行交互的惩罚:-565.5999999999976
+Episode:11/100, Reward:-6425.418771375744
+Episode:11/100, avg speed:14.44976091102281
+Episode:11/100, avg halt num:0.0855848434925865
+Episode:11/100, avg elec cons:2.436481922136518
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-6346.167673073614, 速度奖励:-2609.1499999999924, 加速度奖励:-1042.3176730738223, 交通灯奖励:-2274.7000000004195, 与前车进行交互的惩罚:-419.9999999999956
+Episode:12/100, Reward:-6346.167673073614
+Episode:12/100, avg speed:14.284528725313939
+Episode:12/100, avg halt num:0.0839857045609258
+Episode:12/100, avg elec cons:2.5155057919585175
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-5714.558140299196, 速度奖励:-2524.3999999999974, 加速度奖励:-928.5581402992731, 交通灯奖励:-1908.100000000318, 与前车进行交互的惩罚:-353.4999999999967
+Episode:13/100, Reward:-5714.558140299196
+Episode:13/100, avg speed:14.509959287592904
+Episode:13/100, avg halt num:0.06990260760289035
+Episode:13/100, avg elec cons:2.2677376849936977
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-5506.7413250124255, 速度奖励:-2568.199999999987, 加速度奖励:-846.9413250125103, 交通灯奖励:-1710.1000000002969, 与前车进行交互的惩罚:-381.49999999999625
+Episode:14/100, Reward:-5506.7413250124255
+Episode:14/100, avg speed:14.19237397335973
+Episode:14/100, avg halt num:0.0932967810399717
+Episode:14/100, avg elec cons:2.5061411181997553
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-5561.936932641383, 速度奖励:-2557.4499999999944, 加速度奖励:-841.9869326414588, 交通灯奖励:-1797.800000000395, 与前车进行交互的惩罚:-364.6999999999965
+Episode:15/100, Reward:-5561.936932641383
+Episode:15/100, avg speed:14.382902963156617
+Episode:15/100, avg halt num:0.09211502782931355
+Episode:15/100, avg elec cons:2.540267399562005
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-5577.430758864732, 速度奖励:-2509.1999999999944, 加速度奖励:-838.2307588648198, 交通灯奖励:-1834.5000000003026, 与前车进行交互的惩罚:-395.499999999996
+Episode:16/100, Reward:-5577.430758864732
+Episode:16/100, avg speed:14.040238641990035
+Episode:16/100, avg halt num:0.06038739080896316
+Episode:16/100, avg elec cons:2.6360209496640805
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-5160.5727954840895, 速度奖励:-2579.099999999978, 加速度奖励:-823.2727954841737, 交通灯奖励:-1326.3000000002717, 与前车进行交互的惩罚:-431.89999999999543
+Episode:17/100, Reward:-5160.5727954840895
+Episode:17/100, avg speed:14.266562747555112
+Episode:17/100, avg halt num:0.04114799446749654
+Episode:17/100, avg elec cons:2.4033576374251675
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-5796.1283479993745, 速度奖励:-2673.2499999999827, 加速度奖励:-909.4783479993907, 交通灯奖励:-1681.4000000003557, 与前车进行交互的惩罚:-531.9999999999955
+Episode:18/100, Reward:-5796.1283479993745
+Episode:18/100, avg speed:12.894981081033212
+Episode:18/100, avg halt num:0.04582997582594682
+Episode:18/100, avg elec cons:2.5672649505006175
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-5168.3237152448855, 速度奖励:-2712.8499999999913, 加速度奖励:-996.7737152449023, 交通灯奖励:-1085.5999999998671, 与前车进行交互的惩罚:-373.0999999999964
+Episode:19/100, Reward:-5168.3237152448855
+Episode:19/100, avg speed:13.49775062433857
+Episode:19/100, avg halt num:0.010371959942775394
+Episode:19/100, avg elec cons:2.265133739374656
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-4554.697191075281, 速度奖励:-2558.2499999999977, 加速度奖励:-834.7471910752362, 交通灯奖励:-822.8999999998566, 与前车进行交互的惩罚:-338.79999999999694
+Episode:20/100, Reward:-4554.697191075281
+Episode:20/100, avg speed:14.057460056416854
+Episode:20/100, avg halt num:0.01155923050961863
+Episode:20/100, avg elec cons:2.3572434998738463
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-4942.733767259235, 速度奖励:-2597.25, 加速度奖励:-856.2837672592733, 交通灯奖励:-1115.399999999975, 与前车进行交互的惩罚:-373.7999999999964
+Episode:21/100, Reward:-4942.733767259235
+Episode:21/100, avg speed:13.64884639854626
+Episode:21/100, avg halt num:0.01964769647696477
+Episode:21/100, avg elec cons:2.726168409099898
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-4700.479067385389, 速度奖励:-2516.2000000000007, 加速度奖励:-814.0790673854385, 交通灯奖励:-1049.599999999869, 与前车进行交互的惩罚:-320.59999999999724
+Episode:22/100, Reward:-4700.479067385389
+Episode:22/100, avg speed:13.809222574777502
+Episode:22/100, avg halt num:0.012620638455827766
+Episode:22/100, avg elec cons:2.5616802602550797
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-5143.114370583157, 速度奖励:-2893.149999999941, 加速度奖励:-985.9643705831669, 交通灯奖励:-928.6999999998404, 与前车进行交互的惩罚:-335.299999999997
+Episode:23/100, Reward:-5143.114370583157
+Episode:23/100, avg speed:12.956072494640845
+Episode:23/100, avg halt num:0.04338842975206612
+Episode:23/100, avg elec cons:1.1568797447835717
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-4870.535547034696, 速度奖励:-2718.5999999999767, 加速度奖励:-896.7355470347078, 交通灯奖励:-877.1999999998042, 与前车进行交互的惩罚:-377.9999999999963
+Episode:24/100, Reward:-4870.535547034696
+Episode:24/100, avg speed:13.744685117172947
+Episode:24/100, avg halt num:0.011610671936758894
+Episode:24/100, avg elec cons:2.2272466763150813
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-4869.460090139354, 速度奖励:-2568.4999999999945, 加速度奖励:-788.5600901393485, 交通灯奖励:-1054.5999999999287, 与前车进行交互的惩罚:-457.799999999995
+Episode:25/100, Reward:-4869.460090139354
+Episode:25/100, avg speed:14.15195469898709
+Episode:25/100, avg halt num:0.01882985877605918
+Episode:25/100, avg elec cons:2.3539316627380567
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-5151.20364372575, 速度奖励:-2682.149999999988, 加速度奖励:-830.9536437257825, 交通灯奖励:-1173.2999999999283, 与前车进行交互的惩罚:-464.7999999999949
+Episode:26/100, Reward:-5151.20364372575
+Episode:26/100, avg speed:13.506647801263156
+Episode:26/100, avg halt num:0.018447348193697154
+Episode:26/100, avg elec cons:2.6152819758989323
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-4414.927415923851, 速度奖励:-2561.949999999989, 加速度奖励:-783.1774159238422, 交通灯奖励:-691.0999999998197, 与前车进行交互的惩罚:-378.6999999999963
+Episode:27/100, Reward:-4414.927415923851
+Episode:27/100, avg speed:13.866099060670631
+Episode:27/100, avg halt num:0.008656873032528857
+Episode:27/100, avg elec cons:2.4133312734550514
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-4856.889518719382, 速度奖励:-2531.5499999999943, 加速度奖励:-860.6395187194237, 交通灯奖励:-1014.5999999998282, 与前车进行交互的惩罚:-450.09999999999513
+Episode:28/100, Reward:-4856.889518719382
+Episode:28/100, avg speed:13.115911881577217
+Episode:28/100, avg halt num:0.015473300970873786
+Episode:28/100, avg elec cons:2.854615181705615
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-6050.178025053972, 速度奖励:-3136.69999999994, 加速度奖励:-1024.6780250540212, 交通灯奖励:-1204.9000000001924, 与前车进行交互的惩罚:-683.9000000000053
+Episode:29/100, Reward:-6050.178025053972
+Episode:29/100, avg speed:12.226540898605236
+Episode:29/100, avg halt num:0.07646941223510596
+Episode:29/100, avg elec cons:1.5266142351543686
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-7779.913536929084, 速度奖励:-3362.949999999926, 加速度奖励:-1154.2635369291731, 交通灯奖励:-2387.0000000007526, 与前车进行交互的惩罚:-875.7000000000178
+Episode:30/100, Reward:-7779.913536929084
+Episode:30/100, avg speed:12.47948147112165
+Episode:30/100, avg halt num:0.10414634146341463
+Episode:30/100, avg elec cons:1.2127257023363005
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-16257.788686886126, 速度奖励:-5396.349999999919, 加速度奖励:-1984.0386868869941, 交通灯奖励:-7399.699999998236, 与前车进行交互的惩罚:-1477.700000000057
+Episode:31/100, Reward:-16257.788686886126
+Episode:31/100, avg speed:9.878477268157765
+Episode:31/100, avg halt num:0.3155790147152911
+Episode:31/100, avg elec cons:0.8113914426322135
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-6110.87222244568, 速度奖励:-2819.5499999999856, 加速度奖励:-1244.1222224457802, 交通灯奖励:-1478.100000000161, 与前车进行交互的惩罚:-569.0999999999979
+Episode:32/100, Reward:-6110.87222244568
+Episode:32/100, avg speed:12.894207940208654
+Episode:32/100, avg halt num:0.018778026905829595
+Episode:32/100, avg elec cons:2.3165970088957413
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-19808.782249904816, 速度奖励:-5507.749999999951, 加速度奖励:-2021.932249904325, 交通灯奖励:-10126.599999997505, 与前车进行交互的惩罚:-2152.500000000067
+Episode:33/100, Reward:-19808.782249904816
+Episode:33/100, avg speed:9.672787419203662
+Episode:33/100, avg halt num:0.3892435365464411
+Episode:33/100, avg elec cons:0.9433181270141575
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-29440.3899716832, 速度奖励:-6944.1499999999505, 加速度奖励:-2937.1399716813285, 交通灯奖励:-16556.79999999541, 与前车进行交互的惩罚:-3002.299999999846
+Episode:34/100, Reward:-29440.3899716832
+Episode:34/100, avg speed:8.708561606002519
+Episode:34/100, avg halt num:0.3363238841978287
+Episode:34/100, avg elec cons:0.5866366341673315
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-16950.614974307427, 速度奖励:-4162.449999999851, 加速度奖励:-2073.6649743076746, 交通灯奖励:-9197.59999999761, 与前车进行交互的惩罚:-1516.9000000000594
+Episode:35/100, Reward:-16950.614974307427
+Episode:35/100, avg speed:11.57391916741251
+Episode:35/100, avg halt num:0.18405188162221411
+Episode:35/100, avg elec cons:1.297831835538328
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-9799.637469819148, 速度奖励:-2919.7999999999593, 加速度奖励:-1220.5374698194546, 交通灯奖励:-5403.099999999893, 与前车进行交互的惩罚:-256.1999999999983
+Episode:36/100, Reward:-9799.637469819148
+Episode:36/100, avg speed:13.063063021559206
+Episode:36/100, avg halt num:0.11667899408284024
+Episode:36/100, avg elec cons:1.7696332006032642
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-11516.03215410366, 速度奖励:-2805.9499999999443, 加速度奖励:-1256.7821541039837, 交通灯奖励:-6951.3999999993375, 与前车进行交互的惩罚:-501.8999999999943
+Episode:37/100, Reward:-11516.03215410366
+Episode:37/100, avg speed:13.200458234001445
+Episode:37/100, avg halt num:0.14558274574865201
+Episode:37/100, avg elec cons:2.155513451272779
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-11537.863120804228, 速度奖励:-2816.5999999999567, 加速度奖励:-1391.3631208047116, 交通灯奖励:-6774.0999999990545, 与前车进行交互的惩罚:-555.799999999997
+Episode:38/100, Reward:-11537.863120804228
+Episode:38/100, avg speed:13.360721823208769
+Episode:38/100, avg halt num:0.16359800537015726
+Episode:38/100, avg elec cons:2.2004681646035067
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-12748.774754141517, 速度奖励:-2956.0499999999583, 加速度奖励:-1403.4247541420573, 交通灯奖励:-7523.399999998846, 与前车进行交互的惩罚:-865.9000000000171
+Episode:39/100, Reward:-12748.774754141517
+Episode:39/100, avg speed:13.967846979897764
+Episode:39/100, avg halt num:0.18502581755593803
+Episode:39/100, avg elec cons:2.245490071113897
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-12984.951564225279, 速度奖励:-3204.99999999993, 加速度奖励:-1437.1515642257914, 交通灯奖励:-7534.99999999865, 与前车进行交互的惩罚:-807.8000000000134
+Episode:40/100, Reward:-12984.951564225279
+Episode:40/100, avg speed:12.888705116858258
+Episode:40/100, avg halt num:0.180835734870317
+Episode:40/100, avg elec cons:1.645805974442485
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-10774.265195346006, 速度奖励:-3036.4499999999416, 加速度奖励:-1350.715195346296, 交通灯奖励:-5968.499999999534, 与前车进行交互的惩罚:-418.59999999999565
+Episode:41/100, Reward:-10774.265195346006
+Episode:41/100, avg speed:12.968772911837158
+Episode:41/100, avg halt num:0.11244619799139167
+Episode:41/100, avg elec cons:1.7817485993799587
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-23296.718620731295, 速度奖励:-5462.9999999999, 加速度奖励:-2316.718620730429, 交通灯奖励:-13388.999999995985, 与前车进行交互的惩罚:-2128.000000000073
+Episode:42/100, Reward:-23296.718620731295
+Episode:42/100, avg speed:9.841489815489638
+Episode:42/100, avg halt num:0.3162251655629139
+Episode:42/100, avg elec cons:0.8027972856585277
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-26085.770671888284, 速度奖励:-5805.549999999946, 加速度奖励:-2663.72067188738, 交通灯奖励:-15096.499999996291, 与前车进行交互的惩罚:-2519.9999999999714
+Episode:43/100, Reward:-26085.770671888284
+Episode:43/100, avg speed:8.187344981918596
+Episode:43/100, avg halt num:0.4088913282107574
+Episode:43/100, avg elec cons:0.8655109875612041
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-29005.18029017272, 速度奖励:-6017.999999999918, 加速度奖励:-3067.08029017135, 交通灯奖励:-16527.899999995992, 与前车进行交互的惩罚:-3392.1999999997447
+Episode:44/100, Reward:-29005.18029017272
+Episode:44/100, avg speed:7.900866808290262
+Episode:44/100, avg halt num:0.3473013744552464
+Episode:44/100, avg elec cons:0.8435348756513751
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-35856.780518718544, 速度奖励:-7746.199999999957, 加速度奖励:-4096.5805187163005, 交通灯奖励:-20823.40000000137, 与前车进行交互的惩罚:-3190.599999999797
+Episode:45/100, Reward:-35856.780518718544
+Episode:45/100, avg speed:7.344371782711171
+Episode:45/100, avg halt num:0.403013653013653
+Episode:45/100, avg elec cons:0.7150988753820575
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-21651.720555903637, 速度奖励:-4761.6499999998205, 加速度奖励:-2803.4705559021186, 交通灯奖励:-12612.399999996569, 与前车进行交互的惩罚:-1474.2000000000567
+Episode:46/100, Reward:-21651.720555903637
+Episode:46/100, avg speed:10.648509822605606
+Episode:46/100, avg halt num:0.22552281368821292
+Episode:46/100, avg elec cons:1.1984015110226436
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-18059.421198492302, 速度奖励:-4415.7999999999165, 加速度奖励:-2227.621198492526, 交通灯奖励:-10272.199999997712, 与前车进行交互的惩罚:-1143.8000000000352
+Episode:47/100, Reward:-18059.421198492302
+Episode:47/100, avg speed:10.786337212935535
+Episode:47/100, avg halt num:0.1995630007283321
+Episode:47/100, avg elec cons:1.0214842212754984
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-26342.330957954455, 速度奖励:-6146.0499999999365, 加速度奖励:-3508.980957952653, 交通灯奖励:-14432.59999999607, 与前车进行交互的惩罚:-2254.7000000000403
+Episode:48/100, Reward:-26342.330957954455
+Episode:48/100, avg speed:8.938558764454521
+Episode:48/100, avg halt num:0.3086137527432334
+Episode:48/100, avg elec cons:0.9581308323147341
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-30524.109162203345, 速度奖励:-6834.449999999913, 加速度奖励:-3720.359162200655, 交通灯奖励:-17629.19999999766, 与前车进行交互的惩罚:-2340.100000000018
+Episode:49/100, Reward:-30524.109162203345
+Episode:49/100, avg speed:8.53505811011211
+Episode:49/100, avg halt num:0.33902583902583905
+Episode:49/100, avg elec cons:0.7220314361774622
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-23562.432300103184, 速度奖励:-5843.499999999895, 加速度奖励:-3087.432300102686, 交通灯奖励:-12111.499999995971, 与前车进行交互的惩罚:-2519.9999999999714
+Episode:50/100, Reward:-23562.432300103184
+Episode:50/100, avg speed:9.190160508237327
+Episode:50/100, avg halt num:0.30642583120204603
+Episode:50/100, avg elec cons:0.7836437367556377
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-30727.172773111804, 速度奖励:-7009.699999999935, 加速度奖励:-3985.5727731095944, 交通灯奖励:-16574.199999995486, 与前车进行交互的惩罚:-3157.6999999998056
+Episode:51/100, Reward:-30727.172773111804
+Episode:51/100, avg speed:8.171150053730296
+Episode:51/100, avg halt num:0.364411943936624
+Episode:51/100, avg elec cons:0.7254164176092258
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-34376.58186407769, 速度奖励:-7355.19999999997, 加速度奖励:-4550.881864076064, 交通灯奖励:-18952.999999998894, 与前车进行交互的惩罚:-3517.499999999712
+Episode:52/100, Reward:-34376.58186407769
+Episode:52/100, avg speed:7.365357236404739
+Episode:52/100, avg halt num:0.23177938279711097
+Episode:52/100, avg elec cons:0.7300257418414176
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-44153.668930894586, 速度奖励:-9417.750000000007, 加速度奖励:-5360.71893089141, 交通灯奖励:-25208.100000007227, 与前车进行交互的惩罚:-4167.099999999544
+Episode:53/100, Reward:-44153.668930894586
+Episode:53/100, avg speed:6.702096005626965
+Episode:53/100, avg halt num:0.4088484468151867
+Episode:53/100, avg elec cons:0.6172841612807461
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-34509.96233298379, 速度奖励:-7497.8499999999685, 加速度奖励:-3879.0123329826997, 交通灯奖励:-20630.600000000766, 与前车进行交互的惩罚:-2502.499999999976
+Episode:54/100, Reward:-34509.96233298379
+Episode:54/100, avg speed:7.501261673089472
+Episode:54/100, avg halt num:0.20504044803982577
+Episode:54/100, avg elec cons:0.6104067243128852
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-29570.234438631698, 速度奖励:-6098.14999999994, 加速度奖励:-3023.0844386302665, 交通灯奖励:-16255.29999999583, 与前车进行交互的惩罚:-4193.699999999537
+Episode:55/100, Reward:-29570.234438631698
+Episode:55/100, avg speed:7.57633521114157
+Episode:55/100, avg halt num:0.26585991932526587
+Episode:55/100, avg elec cons:0.9125148540174826
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-20670.80216005214, 速度奖励:-4972.099999999905, 加速度奖励:-2817.002160051659, 交通灯奖励:-10857.99999999694, 与前车进行交互的惩罚:-2023.7000000000924
+Episode:56/100, Reward:-20670.80216005214
+Episode:56/100, avg speed:9.326302445080907
+Episode:56/100, avg halt num:0.17110076488194215
+Episode:56/100, avg elec cons:1.0509389890431478
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-17119.585486519896, 速度奖励:-4172.249999999893, 加速度奖励:-2352.735486520076, 交通灯奖励:-9081.899999997651, 与前车进行交互的惩罚:-1512.7000000000592
+Episode:57/100, Reward:-17119.585486519896
+Episode:57/100, avg speed:10.26100859811688
+Episode:57/100, avg halt num:0.19773230088495575
+Episode:57/100, avg elec cons:1.3584039641495849
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-13793.191103514795, 速度奖励:-3535.249999999912, 加速度奖励:-1846.2411035152943, 交通灯奖励:-7246.899999998741, 与前车进行交互的惩罚:-1164.8000000000366
+Episode:58/100, Reward:-13793.191103514795
+Episode:58/100, avg speed:10.66162678546405
+Episode:58/100, avg halt num:0.18911617136240833
+Episode:58/100, avg elec cons:1.5168840664370933
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-10830.497777237551, 速度奖励:-2909.299999999968, 加速度奖励:-1631.8977772378414, 交通灯奖励:-5270.799999999632, 与前车进行交互的惩罚:-1018.5000000000271
+Episode:59/100, Reward:-10830.497777237551
+Episode:59/100, avg speed:12.22481865345145
+Episode:59/100, avg halt num:0.13595336592704024
+Episode:59/100, avg elec cons:1.7349788930146661
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-7915.803058952101, 速度奖励:-3043.299999999973, 加速度奖励:-1608.7030589520984, 交通灯奖励:-2336.300000000652, 与前车进行交互的惩罚:-927.5000000000211
+Episode:60/100, Reward:-7915.803058952101
+Episode:60/100, avg speed:12.232119123375698
+Episode:60/100, avg halt num:0.055413605876716704
+Episode:60/100, avg elec cons:1.4815649368982713
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-8104.200216547506, 速度奖励:-3091.44999999997, 加速度奖励:-1639.6502165473983, 交通灯奖励:-2209.7000000006756, 与前车进行交互的惩罚:-1163.4000000000365
+Episode:61/100, Reward:-8104.200216547506
+Episode:61/100, avg speed:11.379594206505386
+Episode:61/100, avg halt num:0.013087504776461598
+Episode:61/100, avg elec cons:1.7099107388300365
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-6075.448300046954, 速度奖励:-3044.9999999999427, 加速度奖励:-1372.248300046967, 交通灯奖励:-882.5999999998324, 与前车进行交互的惩罚:-775.6000000000113
+Episode:62/100, Reward:-6075.448300046954
+Episode:62/100, avg speed:12.512383329182326
+Episode:62/100, avg halt num:0.03213433344698261
+Episode:62/100, avg elec cons:1.5133418899009379
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-5912.793457285092, 速度奖励:-3274.6499999999805, 加速度奖励:-1356.7434572852078, 交通灯奖励:-810.2999999998731, 与前车进行交互的惩罚:-471.0999999999948
+Episode:63/100, Reward:-5912.793457285092
+Episode:63/100, avg speed:12.522291166571213
+Episode:63/100, avg halt num:0.0552775984506133
+Episode:63/100, avg elec cons:1.1472995939864195
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-8307.680792676418, 速度奖励:-3896.649999999938, 加速度奖励:-1497.630792676521, 交通灯奖励:-2099.3000000006823, 与前车进行交互的惩罚:-814.1000000000138
+Episode:64/100, Reward:-8307.680792676418
+Episode:64/100, avg speed:11.313768960072515
+Episode:64/100, avg halt num:0.14478976234003657
+Episode:64/100, avg elec cons:1.004626202784181
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-7467.380423438243, 速度奖励:-3641.8999999999432, 加速度奖励:-1479.8804234383047, 交通灯奖励:-1683.400000000628, 与前车进行交互的惩罚:-662.2000000000039
+Episode:65/100, Reward:-7467.380423438243
+Episode:65/100, avg speed:11.6865577484591
+Episode:65/100, avg halt num:0.07738515901060071
+Episode:65/100, avg elec cons:1.0275982794848857
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-6313.8858466491, 速度奖励:-3461.149999999965, 加速度奖励:-1370.2358466490448, 交通灯奖励:-1055.4999999998472, 与前车进行交互的惩罚:-426.9999999999955
+Episode:66/100, Reward:-6313.8858466491
+Episode:66/100, avg speed:12.73460797405016
+Episode:66/100, avg halt num:0.01966906025600999
+Episode:66/100, avg elec cons:0.9915642945697752
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-7486.387299649887, 速度奖励:-3811.7499999999623, 加速度奖励:-1294.4372996499535, 交通灯奖励:-1669.7000000007533, 与前车进行交互的惩罚:-710.500000000007
+Episode:67/100, Reward:-7486.387299649887
+Episode:67/100, avg speed:12.181804290739386
+Episode:67/100, avg halt num:0.07798833819241982
+Episode:67/100, avg elec cons:0.8494622851626327
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-7052.057616627844, 速度奖励:-3638.5499999999292, 加速度奖励:-1210.0076166278893, 交通灯奖励:-1558.8000000004552, 与前车进行交互的惩罚:-644.7000000000028
+Episode:68/100, Reward:-7052.057616627844
+Episode:68/100, avg speed:12.19703644527424
+Episode:68/100, avg halt num:0.07175773535220539
+Episode:68/100, avg elec cons:0.8926426732394304
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-6644.639194287091, 速度奖励:-3609.3499999999203, 加速度奖励:-1162.4891942871077, 交通灯奖励:-1408.0000000001137, 与前车进行交互的惩罚:-464.7999999999949
+Episode:69/100, Reward:-6644.639194287091
+Episode:69/100, avg speed:11.985396047044839
+Episode:69/100, avg halt num:0.06463154689403167
+Episode:69/100, avg elec cons:0.7834204461550857
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-6552.6885177055465, 速度奖励:-3679.7499999999563, 加速度奖励:-1119.3385177055832, 交通灯奖励:-1225.1000000002316, 与前车进行交互的惩罚:-528.4999999999952
+Episode:70/100, Reward:-6552.6885177055465
+Episode:70/100, avg speed:11.627299064830636
+Episode:70/100, avg halt num:0.06512404580152671
+Episode:70/100, avg elec cons:0.7739969291281484
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-8269.195373214301, 速度奖励:-4037.44999999993, 加速度奖励:-1144.4453732144873, 交通灯奖励:-2374.00000000072, 与前车进行交互的惩罚:-713.3000000000072
+Episode:71/100, Reward:-8269.195373214301
+Episode:71/100, avg speed:11.715538695861962
+Episode:71/100, avg halt num:0.10921010553245923
+Episode:71/100, avg elec cons:0.686234880816782
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-7613.318622630645, 速度奖励:-4035.4999999999436, 加速度奖励:-1135.8186226307157, 交通灯奖励:-1777.0000000005375, 与前车进行交互的惩罚:-665.0000000000041
+Episode:72/100, Reward:-7613.318622630645
+Episode:72/100, avg speed:10.302481891273244
+Episode:72/100, avg halt num:0.09379657228017883
+Episode:72/100, avg elec cons:0.7518252745459935
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-7159.892695043977, 速度奖励:-3851.349999999946, 加速度奖励:-1109.8426950440503, 交通灯奖励:-1639.4000000003189, 与前车进行交互的惩罚:-559.2999999999972
+Episode:73/100, Reward:-7159.892695043977
+Episode:73/100, avg speed:11.657944937637263
+Episode:73/100, avg halt num:0.08412767186597342
+Episode:73/100, avg elec cons:0.6398431081435195
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-9473.157851104972, 速度奖励:-4406.199999999946, 加速度奖励:-1194.8578511052879, 交通灯奖励:-2981.0000000010587, 与前车进行交互的惩罚:-891.1000000000188
+Episode:74/100, Reward:-9473.157851104972
+Episode:74/100, avg speed:11.517974424515527
+Episode:74/100, avg halt num:0.1508748761967646
+Episode:74/100, avg elec cons:0.654157576374382
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-8734.322608918781, 速度奖励:-4391.149999999954, 加速度奖励:-1189.0726089189202, 交通灯奖励:-2334.40000000081, 与前车进行交互的惩罚:-819.7000000000141
+Episode:75/100, Reward:-8734.322608918781
+Episode:75/100, avg speed:11.351982878581934
+Episode:75/100, avg halt num:0.13106796116504854
+Episode:75/100, avg elec cons:0.6283436757515096
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-8961.231576641718, 速度奖励:-4080.3499999999453, 加速度奖励:-1087.0815766419905, 交通灯奖励:-3051.1000000009103, 与前车进行交互的惩罚:-742.7000000000091
+Episode:76/100, Reward:-8961.231576641718
+Episode:76/100, avg speed:10.66911192306813
+Episode:76/100, avg halt num:0.11987744159325929
+Episode:76/100, avg elec cons:0.847188639881758
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-8389.30879197598, 速度奖励:-4207.999999999958, 加速度奖励:-1016.5087919761752, 交通灯奖励:-2389.900000000697, 与前车进行交互的惩罚:-774.9000000000112
+Episode:77/100, Reward:-8389.30879197598
+Episode:77/100, avg speed:10.91679645044192
+Episode:77/100, avg halt num:0.15621490078622238
+Episode:77/100, avg elec cons:0.742513688924142
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-7916.612505372215, 速度奖励:-4025.2499999999523, 加速度奖励:-1019.1625053723443, 交通灯奖励:-2246.4000000007713, 与前车进行交互的惩罚:-625.8000000000015
+Episode:78/100, Reward:-7916.612505372215
+Episode:78/100, avg speed:10.726510892785917
+Episode:78/100, avg halt num:0.12574794315632012
+Episode:78/100, avg elec cons:0.7767320970131057
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-9910.102916616026, 速度奖励:-4567.899999999949, 加速度奖励:-1200.9029166161483, 交通灯奖励:-3236.900000000901, 与前车进行交互的惩罚:-904.4000000000196
+Episode:79/100, Reward:-9910.102916616026
+Episode:79/100, avg speed:10.287021411797962
+Episode:79/100, avg halt num:0.15334084084084085
+Episode:79/100, avg elec cons:0.7610447962743767
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-9419.628905724792, 速度奖励:-4287.549999999928, 加速度奖励:-1171.778905725139, 交通灯奖励:-2985.200000000977, 与前车进行交互的惩罚:-975.1000000000242
+Episode:80/100, Reward:-9419.628905724792
+Episode:80/100, avg speed:10.64321301296244
+Episode:80/100, avg halt num:0.1643835616438356
+Episode:80/100, avg elec cons:0.7653120382760883
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-9907.806217328707, 速度奖励:-4482.099999999932, 加速度奖励:-1110.8062173290816, 交通灯奖励:-3299.900000000967, 与前车进行交互的惩罚:-1015.0000000000268
+Episode:81/100, Reward:-9907.806217328707
+Episode:81/100, avg speed:10.41599613710543
+Episode:81/100, avg halt num:0.2092274678111588
+Episode:81/100, avg elec cons:0.7189460766410699
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-8523.250487155441, 速度奖励:-4115.599999999947, 加速度奖励:-1035.4504871556505, 交通灯奖励:-2756.2000000006747, 与前车进行交互的惩罚:-616.0000000000009
+Episode:82/100, Reward:-8523.250487155441
+Episode:82/100, avg speed:10.717762672391174
+Episode:82/100, avg halt num:0.1677337989910749
+Episode:82/100, avg elec cons:0.8293048665163086
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-7258.066063674465, 速度奖励:-4022.399999999947, 加速度奖励:-885.2660636746411, 交通灯奖励:-1815.6000000006911, 与前车进行交互的惩罚:-534.7999999999956
+Episode:83/100, Reward:-7258.066063674465
+Episode:83/100, avg speed:11.48555667127311
+Episode:83/100, avg halt num:0.11020441806791956
+Episode:83/100, avg elec cons:0.6834420807024197
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-6553.163064880478, 速度奖励:-3823.249999999932, 加速度奖励:-819.913064880537, 交通灯奖励:-1369.6000000002678, 与前车进行交互的惩罚:-540.399999999996
+Episode:84/100, Reward:-6553.163064880478
+Episode:84/100, avg speed:10.941001632439514
+Episode:84/100, avg halt num:0.12432327919566899
+Episode:84/100, avg elec cons:0.9078663456744256
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-7455.456631481262, 速度奖励:-4043.949999999955, 加速度奖励:-890.0066314813794, 交通灯奖励:-1836.200000000561, 与前车进行交互的惩罚:-685.3000000000054
+Episode:85/100, Reward:-7455.456631481262
+Episode:85/100, avg speed:11.756557634824281
+Episode:85/100, avg halt num:0.08616230197219528
+Episode:85/100, avg elec cons:0.740921993813879
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-11000.736124009156, 速度奖励:-4870.499999999917, 加速度奖励:-1323.0361240096363, 交通灯奖励:-3477.900000001112, 与前车进行交互的惩罚:-1329.3000000000472
+Episode:86/100, Reward:-11000.736124009156
+Episode:86/100, avg speed:10.600787249522249
+Episode:86/100, avg halt num:0.20926090828138913
+Episode:86/100, avg elec cons:0.5586713735133306
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-11005.138274401892, 速度奖励:-4913.499999999938, 加速度奖励:-1283.238274402448, 交通灯奖励:-3619.100000001277, 与前车进行交互的惩罚:-1189.3000000000382
+Episode:87/100, Reward:-11005.138274401892
+Episode:87/100, avg speed:9.279435970861913
+Episode:87/100, avg halt num:0.26509396241503397
+Episode:87/100, avg elec cons:0.7490386887462896
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-9199.73753792676, 速度奖励:-4346.099999999937, 加速度奖励:-1315.237537926996, 交通灯奖励:-2596.200000000875, 与前车进行交互的惩罚:-942.2000000000221
+Episode:88/100, Reward:-9199.73753792676
+Episode:88/100, avg speed:11.114677710228968
+Episode:88/100, avg halt num:0.11612426035502958
+Episode:88/100, avg elec cons:0.6545404034056133
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-8223.245130389121, 速度奖励:-4237.949999999932, 加速度奖励:-1091.3951303893098, 交通灯奖励:-2177.10000000073, 与前车进行交互的惩罚:-716.8000000000075
+Episode:89/100, Reward:-8223.245130389121
+Episode:89/100, avg speed:10.473612198850182
+Episode:89/100, avg halt num:0.13533020570191268
+Episode:89/100, avg elec cons:0.6935514412829367
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-7160.5573113531445, 速度奖励:-3941.549999999953, 加速度奖励:-949.2073113532427, 交通灯奖励:-1671.3000000004515, 与前车进行交互的惩罚:-598.4999999999998
+Episode:90/100, Reward:-7160.5573113531445
+Episode:90/100, avg speed:10.90091199604742
+Episode:90/100, avg halt num:0.07848392036753446
+Episode:90/100, avg elec cons:0.8796635136472494
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-7474.577167520674, 速度奖励:-3979.4499999999534, 加速度奖励:-965.7271675208223, 交通灯奖励:-1942.1000000004817, 与前车进行交互的惩罚:-587.299999999999
+Episode:91/100, Reward:-7474.577167520674
+Episode:91/100, avg speed:10.621777590404779
+Episode:91/100, avg halt num:0.13055764883195178
+Episode:91/100, avg elec cons:0.8265488370044335
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-6194.737437936476, 速度奖励:-3692.149999999956, 加速度奖励:-935.4874379365153, 交通灯奖励:-1026.6999999997765, 与前车进行交互的惩罚:-540.399999999996
+Episode:92/100, Reward:-6194.737437936476
+Episode:92/100, avg speed:11.056859366772358
+Episode:92/100, avg halt num:0.09907875722543352
+Episode:92/100, avg elec cons:0.9497931967974256
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-8627.259087970271, 速度奖励:-4321.8499999999385, 加速度奖励:-945.8090879705543, 交通灯奖励:-2392.9000000009282, 与前车进行交互的惩罚:-966.7000000000237
+Episode:93/100, Reward:-8627.259087970271
+Episode:93/100, avg speed:10.822930750385824
+Episode:93/100, avg halt num:0.17658574784651526
+Episode:93/100, avg elec cons:0.8111951448677865
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-7517.993749733743, 速度奖励:-4242.349999999956, 加速度奖励:-903.7437497338221, 交通灯奖励:-1767.100000000471, 与前车进行交互的惩罚:-604.8000000000002
+Episode:94/100, Reward:-7517.993749733743
+Episode:94/100, avg speed:11.080436770535659
+Episode:94/100, avg halt num:0.1296326397919376
+Episode:94/100, avg elec cons:0.5950091600567473
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-14026.857516527542, 速度奖励:-5731.84999999995, 加速度奖励:-1188.8075165282871, 交通灯奖励:-5386.299999997816, 与前车进行交互的惩罚:-1719.9000000000726
+Episode:95/100, Reward:-14026.857516527542
+Episode:95/100, avg speed:9.264577068080069
+Episode:95/100, avg halt num:0.41372257344737823
+Episode:95/100, avg elec cons:0.5969829210397359
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-8287.26789719806, 速度奖励:-3947.6999999999266, 加速度奖励:-1013.0678971982719, 交通灯奖励:-2567.7000000006783, 与前车进行交互的惩罚:-758.8000000000102
+Episode:96/100, Reward:-8287.26789719806
+Episode:96/100, avg speed:10.469136223200271
+Episode:96/100, avg halt num:0.1713770864946889
+Episode:96/100, avg elec cons:1.1026160095873303
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-9439.7452922298, 速度奖励:-4242.649999999952, 加速度奖励:-1128.595292230184, 交通灯奖励:-3324.4000000010346, 与前车进行交互的惩罚:-744.1000000000092
+Episode:97/100, Reward:-9439.7452922298
+Episode:97/100, avg speed:10.92433893646477
+Episode:97/100, avg halt num:0.21123043319985438
+Episode:97/100, avg elec cons:0.8119014820447035
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-8078.518336049356, 速度奖励:-4160.649999999942, 加速度奖励:-983.7683360495681, 交通灯奖励:-2260.7000000007174, 与前车进行交互的惩罚:-673.4000000000046
+Episode:98/100, Reward:-8078.518336049356
+Episode:98/100, avg speed:9.748345034615216
+Episode:98/100, avg halt num:0.2061651583710407
+Episode:98/100, avg elec cons:0.8416564427872898
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-7809.779054138516, 速度奖励:-4082.8499999999517, 加速度奖励:-1000.5290541387486, 交通灯奖励:-1907.4000000004949, 与前车进行交互的惩罚:-819.0000000000141
+Episode:99/100, Reward:-7809.779054138516
+Episode:99/100, avg speed:11.142016450009361
+Episode:99/100, avg halt num:0.16917922948073702
+Episode:99/100, avg elec cons:0.9106145327780725
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-8259.264882564683, 速度奖励:-3932.9499999999316, 加速度奖励:-1134.514882564791, 交通灯奖励:-2627.600000000787, 与前车进行交互的惩罚:-564.1999999999975
+Episode:100/100, Reward:-8259.264882564683
+Episode:100/100, avg speed:11.528505030332076
+Episode:100/100, avg halt num:0.1264705882352941
+Episode:100/100, avg elec cons:0.9444178353140942
+model saved successfully!
+Complete training!
+final reward list:[-98722.1664433688, -89934.23315759533, -41700.80215893815, -12966.566930013514, -9821.13506505185, -10138.657380522605, -9115.1424329623, -8258.555624717226, -7180.739681752856, -6908.0159120763365, -6425.418771375744, -6346.167673073614, -5714.558140299196, -5506.7413250124255, -5561.936932641383, -5577.430758864732, -5160.5727954840895, -5796.1283479993745, -5168.3237152448855, -4554.697191075281, -4942.733767259235, -4700.479067385389, -5143.114370583157, -4870.535547034696, -4869.460090139354, -5151.20364372575, -4414.927415923851, -4856.889518719382, -6050.178025053972, -7779.913536929084, -16257.788686886126, -6110.87222244568, -19808.782249904816, -29440.3899716832, -16950.614974307427, -9799.637469819148, -11516.03215410366, -11537.863120804228, -12748.774754141517, -12984.951564225279, -10774.265195346006, -23296.718620731295, -26085.770671888284, -29005.18029017272, -35856.780518718544, -21651.720555903637, -18059.421198492302, -26342.330957954455, -30524.109162203345, -23562.432300103184, -30727.172773111804, -34376.58186407769, -44153.668930894586, -34509.96233298379, -29570.234438631698, -20670.80216005214, -17119.585486519896, -13793.191103514795, -10830.497777237551, -7915.803058952101, -8104.200216547506, -6075.448300046954, -5912.793457285092, -8307.680792676418, -7467.380423438243, -6313.8858466491, -7486.387299649887, -7052.057616627844, -6644.639194287091, -6552.6885177055465, -8269.195373214301, -7613.318622630645, -7159.892695043977, -9473.157851104972, -8734.322608918781, -8961.231576641718, -8389.30879197598, -7916.612505372215, -9910.102916616026, -9419.628905724792, -9907.806217328707, -8523.250487155441, -7258.066063674465, -6553.163064880478, -7455.456631481262, -11000.736124009156, -11005.138274401892, -9199.73753792676, -8223.245130389121, -7160.5573113531445, -7474.577167520674, -6194.737437936476, -8627.259087970271, -7517.993749733743, -14026.857516527542, -8287.26789719806, -9439.7452922298, -8078.518336049356, -7809.779054138516, -8259.264882564683]
+final speed list:[7.884959376607249, 7.311117285738857, 9.019070337259842, 13.209099549078601, 13.493231096624037, 13.760037560278688, 14.47690176401276, 14.005144798906297, 14.05220250469284, 13.89019774149982, 14.44976091102281, 14.284528725313939, 14.509959287592904, 14.19237397335973, 14.382902963156617, 14.040238641990035, 14.266562747555112, 12.894981081033212, 13.49775062433857, 14.057460056416854, 13.64884639854626, 13.809222574777502, 12.956072494640845, 13.744685117172947, 14.15195469898709, 13.506647801263156, 13.866099060670631, 13.115911881577217, 12.226540898605236, 12.47948147112165, 9.878477268157765, 12.894207940208654, 9.672787419203662, 8.708561606002519, 11.57391916741251, 13.063063021559206, 13.200458234001445, 13.360721823208769, 13.967846979897764, 12.888705116858258, 12.968772911837158, 9.841489815489638, 8.187344981918596, 7.900866808290262, 7.344371782711171, 10.648509822605606, 10.786337212935535, 8.938558764454521, 8.53505811011211, 9.190160508237327, 8.171150053730296, 7.365357236404739, 6.702096005626965, 7.501261673089472, 7.57633521114157, 9.326302445080907, 10.26100859811688, 10.66162678546405, 12.22481865345145, 12.232119123375698, 11.379594206505386, 12.512383329182326, 12.522291166571213, 11.313768960072515, 11.6865577484591, 12.73460797405016, 12.181804290739386, 12.19703644527424, 11.985396047044839, 11.627299064830636, 11.715538695861962, 10.302481891273244, 11.657944937637263, 11.517974424515527, 11.351982878581934, 10.66911192306813, 10.91679645044192, 10.726510892785917, 10.287021411797962, 10.64321301296244, 10.41599613710543, 10.717762672391174, 11.48555667127311, 10.941001632439514, 11.756557634824281, 10.600787249522249, 9.279435970861913, 11.114677710228968, 10.473612198850182, 10.90091199604742, 10.621777590404779, 11.056859366772358, 10.822930750385824, 11.080436770535659, 9.264577068080069, 10.469136223200271, 10.92433893646477, 9.748345034615216, 11.142016450009361, 11.528505030332076]
+final elec cons list:[0.2866498428841138, 0.27276812007691575, 1.3453115634248085, 2.1559000852769272, 2.4606488474622594, 1.9796544890194963, 1.9056073229880393, 2.032075139384012, 2.3561602424747785, 2.487630914321918, 2.436481922136518, 2.5155057919585175, 2.2677376849936977, 2.5061411181997553, 2.540267399562005, 2.6360209496640805, 2.4033576374251675, 2.5672649505006175, 2.265133739374656, 2.3572434998738463, 2.726168409099898, 2.5616802602550797, 1.1568797447835717, 2.2272466763150813, 2.3539316627380567, 2.6152819758989323, 2.4133312734550514, 2.854615181705615, 1.5266142351543686, 1.2127257023363005, 0.8113914426322135, 2.3165970088957413, 0.9433181270141575, 0.5866366341673315, 1.297831835538328, 1.7696332006032642, 2.155513451272779, 2.2004681646035067, 2.245490071113897, 1.645805974442485, 1.7817485993799587, 0.8027972856585277, 0.8655109875612041, 0.8435348756513751, 0.7150988753820575, 1.1984015110226436, 1.0214842212754984, 0.9581308323147341, 0.7220314361774622, 0.7836437367556377, 0.7254164176092258, 0.7300257418414176, 0.6172841612807461, 0.6104067243128852, 0.9125148540174826, 1.0509389890431478, 1.3584039641495849, 1.5168840664370933, 1.7349788930146661, 1.4815649368982713, 1.7099107388300365, 1.5133418899009379, 1.1472995939864195, 1.004626202784181, 1.0275982794848857, 0.9915642945697752, 0.8494622851626327, 0.8926426732394304, 0.7834204461550857, 0.7739969291281484, 0.686234880816782, 0.7518252745459935, 0.6398431081435195, 0.654157576374382, 0.6283436757515096, 0.847188639881758, 0.742513688924142, 0.7767320970131057, 0.7610447962743767, 0.7653120382760883, 0.7189460766410699, 0.8293048665163086, 0.6834420807024197, 0.9078663456744256, 0.740921993813879, 0.5586713735133306, 0.7490386887462896, 0.6545404034056133, 0.6935514412829367, 0.8796635136472494, 0.8265488370044335, 0.9497931967974256, 0.8111951448677865, 0.5950091600567473, 0.5969829210397359, 1.1026160095873303, 0.8119014820447035, 0.8416564427872898, 0.9106145327780725, 0.9444178353140942]
+final halt list:[1.4059744603222863, 1.1827287066246057, 0.25097465886939574, 0.18401486988847585, 0.16380670611439843, 0.19464912280701754, 0.17519685039370078, 0.11496746203904555, 0.10700389105058365, 0.11081033880544883, 0.0855848434925865, 0.0839857045609258, 0.06990260760289035, 0.0932967810399717, 0.09211502782931355, 0.06038739080896316, 0.04114799446749654, 0.04582997582594682, 0.010371959942775394, 0.01155923050961863, 0.01964769647696477, 0.012620638455827766, 0.04338842975206612, 0.011610671936758894, 0.01882985877605918, 0.018447348193697154, 0.008656873032528857, 0.015473300970873786, 0.07646941223510596, 0.10414634146341463, 0.3155790147152911, 0.018778026905829595, 0.3892435365464411, 0.3363238841978287, 0.18405188162221411, 0.11667899408284024, 0.14558274574865201, 0.16359800537015726, 0.18502581755593803, 0.180835734870317, 0.11244619799139167, 0.3162251655629139, 0.4088913282107574, 0.3473013744552464, 0.403013653013653, 0.22552281368821292, 0.1995630007283321, 0.3086137527432334, 0.33902583902583905, 0.30642583120204603, 0.364411943936624, 0.23177938279711097, 0.4088484468151867, 0.20504044803982577, 0.26585991932526587, 0.17110076488194215, 0.19773230088495575, 0.18911617136240833, 0.13595336592704024, 0.055413605876716704, 0.013087504776461598, 0.03213433344698261, 0.0552775984506133, 0.14478976234003657, 0.07738515901060071, 0.01966906025600999, 0.07798833819241982, 0.07175773535220539, 0.06463154689403167, 0.06512404580152671, 0.10921010553245923, 0.09379657228017883, 0.08412767186597342, 0.1508748761967646, 0.13106796116504854, 0.11987744159325929, 0.15621490078622238, 0.12574794315632012, 0.15334084084084085, 0.1643835616438356, 0.2092274678111588, 0.1677337989910749, 0.11020441806791956, 0.12432327919566899, 0.08616230197219528, 0.20926090828138913, 0.26509396241503397, 0.11612426035502958, 0.13533020570191268, 0.07848392036753446, 0.13055764883195178, 0.09907875722543352, 0.17658574784651526, 0.1296326397919376, 0.41372257344737823, 0.1713770864946889, 0.21123043319985438, 0.2061651583710407, 0.16917922948073702, 0.1264705882352941]
+speed reward list:[-19838.950000000004, -18066.5, -7903.499999999956, -3068.79999999996, -2662.9999999999654, -2726.649999999955, -2555.299999999985, -2598.749999999992, -2597.0999999999885, -2638.7499999999895, -2584.0999999999894, -2609.1499999999924, -2524.3999999999974, -2568.199999999987, -2557.4499999999944, -2509.1999999999944, -2579.099999999978, -2673.2499999999827, -2712.8499999999913, -2558.2499999999977, -2597.25, -2516.2000000000007, -2893.149999999941, -2718.5999999999767, -2568.4999999999945, -2682.149999999988, -2561.949999999989, -2531.5499999999943, -3136.69999999994, -3362.949999999926, -5396.349999999919, -2819.5499999999856, -5507.749999999951, -6944.1499999999505, -4162.449999999851, -2919.7999999999593, -2805.9499999999443, -2816.5999999999567, -2956.0499999999583, -3204.99999999993, -3036.4499999999416, -5462.9999999999, -5805.549999999946, -6017.999999999918, -7746.199999999957, -4761.6499999998205, -4415.7999999999165, -6146.0499999999365, -6834.449999999913, -5843.499999999895, -7009.699999999935, -7355.19999999997, -9417.750000000007, -7497.8499999999685, -6098.14999999994, -4972.099999999905, -4172.249999999893, -3535.249999999912, -2909.299999999968, -3043.299999999973, -3091.44999999997, -3044.9999999999427, -3274.6499999999805, -3896.649999999938, -3641.8999999999432, -3461.149999999965, -3811.7499999999623, -3638.5499999999292, -3609.3499999999203, -3679.7499999999563, -4037.44999999993, -4035.4999999999436, -3851.349999999946, -4406.199999999946, -4391.149999999954, -4080.3499999999453, -4207.999999999958, -4025.2499999999523, -4567.899999999949, -4287.549999999928, -4482.099999999932, -4115.599999999947, -4022.399999999947, -3823.249999999932, -4043.949999999955, -4870.499999999917, -4913.499999999938, -4346.099999999937, -4237.949999999932, -3941.549999999953, -3979.4499999999534, -3692.149999999956, -4321.8499999999385, -4242.349999999956, -5731.84999999995, -3947.6999999999266, -4242.649999999952, -4160.649999999942, -4082.8499999999517, -3932.9499999999316]
+accel reward list:[-1666.6164433780698, -1705.8331576051928, -5429.602158935981, -832.9669300140149, -845.035065052265, -966.5073805230603, -983.8424329626987, -1093.505624717468, -1087.9396817531406, -1067.7659120765204, -1071.218771375844, -1042.3176730738223, -928.5581402992731, -846.9413250125103, -841.9869326414588, -838.2307588648198, -823.2727954841737, -909.4783479993907, -996.7737152449023, -834.7471910752362, -856.2837672592733, -814.0790673854385, -985.9643705831669, -896.7355470347078, -788.5600901393485, -830.9536437257825, -783.1774159238422, -860.6395187194237, -1024.6780250540212, -1154.2635369291731, -1984.0386868869941, -1244.1222224457802, -2021.932249904325, -2937.1399716813285, -2073.6649743076746, -1220.5374698194546, -1256.7821541039837, -1391.3631208047116, -1403.4247541420573, -1437.1515642257914, -1350.715195346296, -2316.718620730429, -2663.72067188738, -3067.08029017135, -4096.5805187163005, -2803.4705559021186, -2227.621198492526, -3508.980957952653, -3720.359162200655, -3087.432300102686, -3985.5727731095944, -4550.881864076064, -5360.71893089141, -3879.0123329826997, -3023.0844386302665, -2817.002160051659, -2352.735486520076, -1846.2411035152943, -1631.8977772378414, -1608.7030589520984, -1639.6502165473983, -1372.248300046967, -1356.7434572852078, -1497.630792676521, -1479.8804234383047, -1370.2358466490448, -1294.4372996499535, -1210.0076166278893, -1162.4891942871077, -1119.3385177055832, -1144.4453732144873, -1135.8186226307157, -1109.8426950440503, -1194.8578511052879, -1189.0726089189202, -1087.0815766419905, -1016.5087919761752, -1019.1625053723443, -1200.9029166161483, -1171.778905725139, -1110.8062173290816, -1035.4504871556505, -885.2660636746411, -819.913064880537, -890.0066314813794, -1323.0361240096363, -1283.238274402448, -1315.237537926996, -1091.3951303893098, -949.2073113532427, -965.7271675208223, -935.4874379365153, -945.8090879705543, -903.7437497338221, -1188.8075165282871, -1013.0678971982719, -1128.595292230184, -983.7683360495681, -1000.5290541387486, -1134.514882564791]
+tls reward list:[-66212.60000004235, -59958.700000039426, -25623.000000006556, -8209.39999999843, -5982.699999999561, -6098.29999999952, -5203.599999999935, -4140.000000000653, -2982.600000000447, -2611.400000000618, -2204.5000000004447, -2274.7000000004195, -1908.100000000318, -1710.1000000002969, -1797.800000000395, -1834.5000000003026, -1326.3000000002717, -1681.4000000003557, -1085.5999999998671, -822.8999999998566, -1115.399999999975, -1049.599999999869, -928.6999999998404, -877.1999999998042, -1054.5999999999287, -1173.2999999999283, -691.0999999998197, -1014.5999999998282, -1204.9000000001924, -2387.0000000007526, -7399.699999998236, -1478.100000000161, -10126.599999997505, -16556.79999999541, -9197.59999999761, -5403.099999999893, -6951.3999999993375, -6774.0999999990545, -7523.399999998846, -7534.99999999865, -5968.499999999534, -13388.999999995985, -15096.499999996291, -16527.899999995992, -20823.40000000137, -12612.399999996569, -10272.199999997712, -14432.59999999607, -17629.19999999766, -12111.499999995971, -16574.199999995486, -18952.999999998894, -25208.100000007227, -20630.600000000766, -16255.29999999583, -10857.99999999694, -9081.899999997651, -7246.899999998741, -5270.799999999632, -2336.300000000652, -2209.7000000006756, -882.5999999998324, -810.2999999998731, -2099.3000000006823, -1683.400000000628, -1055.4999999998472, -1669.7000000007533, -1558.8000000004552, -1408.0000000001137, -1225.1000000002316, -2374.00000000072, -1777.0000000005375, -1639.4000000003189, -2981.0000000010587, -2334.40000000081, -3051.1000000009103, -2389.900000000697, -2246.4000000007713, -3236.900000000901, -2985.200000000977, -3299.900000000967, -2756.2000000006747, -1815.6000000006911, -1369.6000000002678, -1836.200000000561, -3477.900000001112, -3619.100000001277, -2596.200000000875, -2177.10000000073, -1671.3000000004515, -1942.1000000004817, -1026.6999999997765, -2392.9000000009282, -1767.100000000471, -5386.299999997816, -2567.7000000006783, -3324.4000000010346, -2260.7000000007174, -1907.4000000004949, -2627.600000000787]
+extra reward list:[-11004.00000000142, -10203.200000000588, -2744.699999999913, -855.4000000000165, -330.3999999999971, -347.1999999999968, -372.3999999999964, -426.2999999999955, -513.0999999999942, -590.0999999999992, -565.5999999999976, -419.9999999999956, -353.4999999999967, -381.49999999999625, -364.6999999999965, -395.499999999996, -431.89999999999543, -531.9999999999955, -373.0999999999964, -338.79999999999694, -373.7999999999964, -320.59999999999724, -335.299999999997, -377.9999999999963, -457.799999999995, -464.7999999999949, -378.6999999999963, -450.09999999999513, -683.9000000000053, -875.7000000000178, -1477.700000000057, -569.0999999999979, -2152.500000000067, -3002.299999999846, -1516.9000000000594, -256.1999999999983, -501.8999999999943, -555.799999999997, -865.9000000000171, -807.8000000000134, -418.59999999999565, -2128.000000000073, -2519.9999999999714, -3392.1999999997447, -3190.599999999797, -1474.2000000000567, -1143.8000000000352, -2254.7000000000403, -2340.100000000018, -2519.9999999999714, -3157.6999999998056, -3517.499999999712, -4167.099999999544, -2502.499999999976, -4193.699999999537, -2023.7000000000924, -1512.7000000000592, -1164.8000000000366, -1018.5000000000271, -927.5000000000211, -1163.4000000000365, -775.6000000000113, -471.0999999999948, -814.1000000000138, -662.2000000000039, -426.9999999999955, -710.500000000007, -644.7000000000028, -464.7999999999949, -528.4999999999952, -713.3000000000072, -665.0000000000041, -559.2999999999972, -891.1000000000188, -819.7000000000141, -742.7000000000091, -774.9000000000112, -625.8000000000015, -904.4000000000196, -975.1000000000242, -1015.0000000000268, -616.0000000000009, -534.7999999999956, -540.399999999996, -685.3000000000054, -1329.3000000000472, -1189.3000000000382, -942.2000000000221, -716.8000000000075, -598.4999999999998, -587.299999999999, -540.399999999996, -966.7000000000237, -604.8000000000002, -1719.9000000000726, -758.8000000000102, -744.1000000000092, -673.4000000000046, -819.0000000000141, -564.1999999999975]

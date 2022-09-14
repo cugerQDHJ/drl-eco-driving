@@ -1,0 +1,82 @@
+nohup: 忽略输入
+Env:sumo, Algorithm:TD3, Device:cuda
+-----------------------------------------
+models/reward_s0.17_a11e-2_t(-2_0.1).pth
+-----------------------------------------
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-28754.181816359138, 速度奖励:-17579.08595965966, 加速度奖励:-1778.0958566981856, 交通灯奖励:-9397.000000000095, 与前车进行交互的惩罚:0.0
+Episode:1/100, Reward:-28754.181816359138
+Episode:1/100, avg speed:14.437917980568516
+Episode:1/100, avg halt num:0.3433744722312439
+Episode:1/100, avg elec cons:1.762902998089894
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-35335.40222686753, 速度奖励:-22375.269146240895, 加速度奖励:-1703.3330806255801, 交通灯奖励:-11256.79999999862, 与前车进行交互的惩罚:0.0
+Episode:2/100, Reward:-35335.40222686753
+Episode:2/100, avg speed:14.017458994774065
+Episode:2/100, avg halt num:0.4596020761245675
+Episode:2/100, avg elec cons:1.8991220424325361
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-20655.669979509184, 速度奖励:-10937.552913839352, 加速度奖励:-2073.7170656688413, 交通灯奖励:-7644.40000000084, 与前车进行交互的惩罚:0.0
+Episode:3/100, Reward:-20655.669979509184
+Episode:3/100, avg speed:15.657388491083694
+Episode:3/100, avg halt num:0.2687152664269369
+Episode:3/100, avg elec cons:2.039941964120252
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-17788.34108491623, 速度奖励:-9151.75886355945, 加速度奖励:-1922.5822213560716, 交通灯奖励:-6714.000000000664, 与前车进行交互的惩罚:0.0
+Episode:4/100, Reward:-17788.34108491623
+Episode:4/100, avg speed:15.180946944438496
+Episode:4/100, avg halt num:0.2661600615621393
+Episode:4/100, avg elec cons:2.517761405001358
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-18212.396399255565, 速度奖励:-9426.641168169503, 加速度奖励:-1969.5552310853848, 交通灯奖励:-6816.200000000673, 与前车进行交互的惩罚:0.0
+Episode:5/100, Reward:-18212.396399255565
+Episode:5/100, avg speed:15.442064003035668
+Episode:5/100, avg halt num:0.27157258064516127
+Episode:5/100, avg elec cons:2.595417889836701
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-18626.598512029952, 速度奖励:-9816.458482419417, 加速度奖励:-1934.3400296096838, 交通灯奖励:-6875.800000000739, 与前车进行交互的惩罚:0.0
+Episode:6/100, Reward:-18626.598512029952
+Episode:6/100, avg speed:15.392720579554522
+Episode:6/100, avg halt num:0.2700286123032904
+Episode:6/100, avg elec cons:2.326385951692707
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-18933.974837898004, 速度奖励:-9854.20727362941, 加速度奖励:-1985.1675642677633, 交通灯奖励:-7094.600000000696, 与前车进行交互的惩罚:0.0
+Episode:7/100, Reward:-18933.974837898004
+Episode:7/100, avg speed:15.671960660433209
+Episode:7/100, avg halt num:0.25412371134020617
+Episode:7/100, avg elec cons:2.2252208697171167
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-17586.423863649346, 速度奖励:-9128.33335808936, 加速度奖励:-1928.6905055590823, 交通灯奖励:-6529.4000000006545, 与前车进行交互的惩罚:0.0
+Episode:8/100, Reward:-17586.423863649346
+Episode:8/100, avg speed:15.716754610718901
+Episode:8/100, avg halt num:0.22265994327135202
+Episode:8/100, avg elec cons:2.0809409799729486
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-25773.111575015093, 速度奖励:-14147.720515279341, 加速度奖励:-3070.7910597347054, 交通灯奖励:-8554.600000000613, 与前车进行交互的惩罚:0.0
+Episode:9/100, Reward:-25773.111575015093
+Episode:9/100, avg speed:14.403999906762857
+Episode:9/100, avg halt num:0.22274074074074074
+Episode:9/100, avg elec cons:1.8492108625430572
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+Error: tcpip::Socket::recvAndCheck @ recv: Connection reset by peer
+Quitting (on error).

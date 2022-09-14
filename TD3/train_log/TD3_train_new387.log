@@ -1,0 +1,10 @@
+nohup: 忽略输入
+Env:sumo, Algorithm:TD3, Device:cuda
+-----------------------------------------
+models/reward_s9e-3_a4e-2_t(-1_0.01).pth
+-----------------------------------------
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+Error: tcpip::Socket::recvAndCheck @ recv: peer shutdown
+Quitting (on error).

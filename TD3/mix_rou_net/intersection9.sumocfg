@@ -1,0 +1,12 @@
+<configuration>
+    <input>
+        <net-file value="d:\sumo_workplace\TD3\mix_rou_net/intersection.net.xml"/>
+        <route-files value="d:\sumo_workplace\TD3\mix_rou_net/intersection9.rou.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+        <step-length value="1"/>
+    </time>
+    <tripinfo-output value="unseen_tripinfo.xml"/>
+</configuration>

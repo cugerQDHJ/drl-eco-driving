@@ -1,0 +1,19 @@
+nohup: 忽略输入
+Env:sumo, Algorithm:TD3, Device:cuda
+------------------------------------------
+models/reward_s5e-2(-5, 1)_a24e-2_t(-2_0.1)_safe(3, -0.7)_2033.pth
+------------------------------------------
+网络参数导入成功!
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+Simulation time:54.3
+avg speed:14.02514483882216
+avg halt num:0.029680044905978108
+total elec cons:32776.72479143704
+safe count:1353
+Complete eval! 
+final speed list:[14.02514483882216]
+final halt list:[0.029680044905978108]
+final episode elec cons list:[32776.72479143704]
+final travel time list:[54110]

@@ -1,0 +1,18 @@
+nohup: 忽略输入
+Env:sumo, Algorithm:TD3, Device:cuda
+-----------------------------------------
+models/reward_s0.18_a9e-2_t(-2_0.1)_safe(4.5,-0.6).pth
+-----------------------------------------
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-160257.75778684305, 速度奖励:-100153.04256971077, 加速度奖励:-17618.415217124595, 交通灯奖励:-38147.70000001995, 与前车进行交互的惩罚:-4338.599999999709
+Episode:1/100, Reward:-160257.75778684305
+Episode:1/100, avg speed:6.738954190052325
+Episode:1/100, avg halt num:0.4202755905511811
+Episode:1/100, avg elec cons:0.6126084614373584
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+Error: tcpip::Socket::recvAndCheck @ recv: peer shutdown
+Quitting (on error).

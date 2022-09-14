@@ -1,0 +1,20 @@
+nohup: 忽略输入
+Env:sumo, Algorithm:TD3, Device:cuda
+------------------------------------------
+models/reward_s0.18_a8e-2_t(-2_1)_safe(4,-0.3).pth
+------------------------------------------
+网络参数导入成功!
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+Simulation time:115.1
+Episode:1/1, Reward:-65447.45070921816
+Episode:1/1, avg speed:6.9391478225357845
+Episode:1/1, avg halt num:0.15361111111111111
+Episode:1/1, total elec cons:52157.018629759565
+Complete eval! 
+final reward list:[-65447.45070921816]
+final speed list:[6.9391478225357845]
+final halt list:[0.15361111111111111]
+final episode elec cons list:[52157.018629759565]
+final travel time list:[83488]

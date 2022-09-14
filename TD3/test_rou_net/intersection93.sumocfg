@@ -1,0 +1,12 @@
+<configuration>
+    <input>
+        <net-file value="/home/pc10/sumo_workplace/DDPG/test_rou_net/intersection.net.xml"/>
+        <route-files value="/home/pc10/sumo_workplace/DDPG/test_rou_net/intersection93.rou.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+        <step-length value="1"/>
+    </time>
+    <tripinfo-output value="tripinfo.xml"/>
+</configuration>

@@ -1,0 +1,34 @@
+nohup: 忽略输入
+Env:sumo, Algorithm:TD3, Device:cuda
+-----------------------------------------
+models/reward_s0.18_a9e-2_t(-2_0.1)_safe(4.5,-0.1).pth
+-----------------------------------------
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-156642.2577868438, 速度奖励:-100153.04256971077, 加速度奖励:-17618.415217124595, 交通灯奖励:-38147.70000001995, 与前车进行交互的惩罚:-723.1000000000959
+Episode:1/100, Reward:-156642.2577868438
+Episode:1/100, avg speed:6.738954190052325
+Episode:1/100, avg halt num:0.4202755905511811
+Episode:1/100, avg elec cons:0.6126084614373584
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-162841.2057740459, 速度奖励:-104697.76894216814, 加速度奖励:-17507.836831867124, 交通灯奖励:-39783.60000002162, 与前车进行交互的惩罚:-852.0000000001252
+Episode:2/100, Reward:-162841.2057740459
+Episode:2/100, avg speed:6.445550898876776
+Episode:2/100, avg halt num:0.5359825721153846
+Episode:2/100, avg elec cons:0.6517442324500664
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+总奖励:-58208.61964839179, 速度奖励:-35584.191530279386, 加速度奖励:-6497.82811811461, 交通灯奖励:-15709.79999999679, 与前车进行交互的惩罚:-416.8000000000263
+Episode:3/100, Reward:-58208.61964839179
+Episode:3/100, avg speed:13.026476725689445
+Episode:3/100, avg halt num:0.26900866217516844
+Episode:3/100, avg elec cons:1.5346027098125719
+ Retrying in 1 seconds
+Warning: Unused states in tlLogic 'J10', program '0' in phase 0 after tl-index 10
+Simulation......
+Error: tcpip::Socket::recvAndCheck @ recv: peer shutdown
+Quitting (on error).
