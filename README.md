@@ -1,8 +1,8 @@
 # drl-eco-driving
 a DRL-based vehicle scheduling algorithm
 
-#state
+\textbf{state}
 
-#action
+\textbf{action}
 
-#reward
+\textbf{reward}
