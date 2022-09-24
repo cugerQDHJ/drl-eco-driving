@@ -1,6 +1,5 @@
 from collections import defaultdict
 import sys, os
-import json
 
 curr_path = os.path.dirname(__file__)
 parent_path = os.path.dirname(curr_path)
