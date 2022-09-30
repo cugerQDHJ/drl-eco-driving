@@ -11,7 +11,7 @@ This is a Deep Reinforcement Learning-based vehicle scheduling algorithm at the 
 
 The CAV can obtain a observation $s_t$ from the enviroment at time-step t is a 8-dimention vector:
 $$
-\boldsymbol{o}_{\boldsymbol{t}}=\left(v_{lead}, t_{flag}, t_{dur}, d_{inter}, v_{ego}, a_{ego}, f_{lead}, d_{lead}\right)
+obs=(v_{lead}, t_{flag}, t_{dur}, d_{inter}, v_{ego}, a_{ego}, f_{lead}, d_{lead})
 $$
 1) V2X: leading vehicle’s speed $v_{lead}$, current traffic phase $t_{flag}$, rest time of the current traffic phase $t_{dur}$, the distance to the stop line of the intersection $d_{inter}$. 
 
@@ -41,6 +41,7 @@ r=r_{tls}+f_1 \cdot r_{accel}+f_2 \cdot r_{speed}+r_{safe}
 $$
 
 **How to run our code**
+
 Environment configuration
 
 simulation platform: sumo, python == 3.9.7, pytorch == 1.12.1, traci == 1.13.0
