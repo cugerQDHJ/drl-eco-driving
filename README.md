@@ -42,6 +42,12 @@ $$
 
 **How to run our code**
 
-1.Environment preparation
+**1) Environment preparation**
 
 simulation platform: sumo, python == 3.9.7, pytorch == 1.12.1, traci == 1.13.0
+
+**2) Training**
+
+run train_main.py
+
+**3) Testing**
