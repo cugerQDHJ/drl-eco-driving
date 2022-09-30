@@ -137,16 +137,6 @@ def run_simulation(agent, sumo_cmd, i_ep, cfg):
     traci.close()
     ep_reward_list = [ep_reward, ep_speed_reward, ep_accel_reward, ep_tls_reward, ep_extra_reward]
     print("总奖励:{}, 速度奖励:{}, 加速度奖励:{}, 交通灯奖励:{}, 与前车进行交互的惩罚:{}".format(ep_reward, ep_speed_reward, ep_accel_reward, ep_tls_reward, ep_extra_reward))
-    
-    #将desired_Accel_dict和actual_accel_dict的内容存起来
-    # json_accel = json.dumps(accel_dict)
-    # json_safe = json.dumps(safe_dict)
-    # accel_json_file = os.path.join('accel_json', str(i_ep)+'.json')
-    # safe_json_file = os.path.join('safe_json', str(i_ep)+'.json')
-    # with open(accel_json_file, 'w') as json_file:
-    #     json_file.write(json_accel)
-    # with open(safe_json_file, 'w') as json_file:
-    #     json_file.write(json_safe)
 
 
     return ep_reward_list, avg_speed_list, avg_halt_num_list, avg_elec_cons_list, total_elec_cons, danger_count
