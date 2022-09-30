@@ -1,5 +1,5 @@
 # DRL-based eco-driving
-This is a Deep Reinforcement Learning-based vehicle scheduling algorithm at the signalized intersection. In our sheduling algorithm, each CAV is regarded as an agent.The agent have three goals:
+This is a Deep Reinforcement Learning-based vehicle scheduling algorithm at the signalized intersection. In our sheduling algorithm, each CAV is regarded as an agent. The agent have three goals:
 
 1) Reducing the energy consumption for passing the intersection of the CAV. 
 
@@ -42,6 +42,6 @@ $$
 
 **How to run our code**
 
-Environment configuration
+1.Environment preparation
 
 simulation platform: sumo, python == 3.9.7, pytorch == 1.12.1, traci == 1.13.0
